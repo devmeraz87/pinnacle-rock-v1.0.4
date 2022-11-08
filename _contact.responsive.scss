@@ -1,0 +1,36 @@
+@media only screen and (max-width: 768px) {
+    .conatct__area {
+        padding: 1rem 1.5rem ;
+
+        .captacha {
+            
+            .captcha {
+                
+                flex-direction: row !important;
+            }
+
+            .spnr__fx {
+                display: flex;
+                align-items: center;
+                flex-direction: row !important;
+
+                .spinner {
+                    margin: 0 !important;
+                }
+            }
+        }
+    }
+
+
+    .footer__area {
+
+        .footer__widget {
+            flex-direction: column;
+
+            p {
+                margin-bottom: 1.5rem;
+            }
+            
+        }
+    }
+}
